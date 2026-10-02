@@ -332,6 +332,26 @@ Day-001-Longest-Common-Prefix/
 
 ---
 
+## 🌟 How To Use This Repo
+
+- 🔍 Browse by day
+- 🧪 Read the technique
+- 🧠 Understand the logic
+- ⌨️ Run the code
+- 🔁 Try solving before copying
+
+---
+
+## ⭐ Support
+
+If this repo helps you in any way:
+
+- ⭐ Drop a star
+- 👀 Follow the journey
+- 💬 Fork and solve along
+
+---
+
 ## 🙌 Credits
 
 All problems are from [LeetCode](https://leetcode.com/).
