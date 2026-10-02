@@ -70,7 +70,6 @@ Day-001-Longest-Common-Prefix/
 
 ## 🧩 Roadmap
 
-Click a **problem name** to open my solution folder, or the **#** to open it on LeetCode.
 
 ### Phase 1 - Arrays, Strings & Hashing
 
@@ -93,6 +92,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 13 | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](./Day-013-Group-Anagrams) | 🟡 Medium |  | ⬜ |  |
 | 14 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./Day-014-Top-K-Frequent-Elements) | 🟡 Medium |  | ⬜ |  |
 
+
 ### Phase 2 - Two Pointers
 
 **Days 15-25** | Use two indices to scan efficiently instead of repeatedly comparing every possible pair.
@@ -111,6 +111,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 24 | [15](https://leetcode.com/problems/3sum/) | [3Sum](./Day-024-3Sum) | 🟡 Medium |  | ⬜ |  |
 | 25 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Day-025-Container-With-Most-Water) | 🟡 Medium |  | ⬜ |  |
 
+
 ### Phase 3 - Sliding Window
 
 **Days 26-33** | Keep a moving window and update its state instead of recomputing it.
@@ -126,6 +127,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 32 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./Day-032-Longest-Repeating-Character-Replacement) | 🟡 Medium |  | ⬜ |  |
 | 33 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./Day-033-Minimum-Window-Substring) | 🔴 Hard |  | ⬜ |  |
 
+
 ### Phase 4 - Stack
 
 **Days 34-39** | LIFO thinking: matching, nested structures, evaluation, and monotonic stacks.
@@ -138,6 +140,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 37 | [739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](./Day-037-Daily-Temperatures) | 🟡 Medium |  | ⬜ |  |
 | 38 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Day-038-Asteroid-Collision) | 🟡 Medium |  | ⬜ |  |
 | 39 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](./Day-039-Decode-String) | 🟡 Medium |  | ⬜ |  |
+
 
 ### Phase 5 - Binary Search
 
@@ -153,6 +156,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 45 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./Day-045-Koko-Eating-Bananas) | 🟡 Medium |  | ⬜ |  |
 | 46 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./Day-046-Find-Minimum-in-Rotated-Sorted-Array) | 🟡 Medium |  | ⬜ |  |
 | 47 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Day-047-Search-in-Rotated-Sorted-Array) | 🟡 Medium |  | ⬜ |  |
+
 
 ### Phase 6 - Linked List
 
@@ -172,6 +176,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 57 | [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](./Day-057-Reorder-List) | 🟡 Medium |  | ⬜ |  |
 | 58 | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](./Day-058-LRU-Cache) | 🟡 Medium |  | ⬜ |  |
 | 59 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted Lists](./Day-059-Merge-k-Sorted-Lists) | 🔴 Hard |  | ⬜ |  |
+
 
 ### Phase 7 - Trees
 
@@ -198,6 +203,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 76 | [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Binary Tree Maximum Path Sum](./Day-076-Binary-Tree-Maximum-Path-Sum) | 🔴 Hard |  | ⬜ |  |
 | 77 | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](./Day-077-Serialize-and-Deserialize-Binary-Tree) | 🔴 Hard |  | ⬜ |  |
 
+
 ### Phase 8 - Tries
 
 **Days 78-80** | Prefix trees for fast prefix lookup, combined with DFS where needed.
@@ -207,6 +213,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 78 | [208](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Implement Trie (Prefix Tree)](./Day-078-Implement-Trie-Prefix-Tree) | 🟡 Medium |  | ⬜ |  |
 | 79 | [211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Design Add and Search Words Data Structure](./Day-079-Design-Add-and-Search-Words-Data-Structure) | 🟡 Medium |  | ⬜ |  |
 | 80 | [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](./Day-080-Word-Search-II) | 🔴 Hard |  | ⬜ |  |
+
 
 ### Phase 9 - Heaps
 
@@ -219,6 +226,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 83 | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Kth Largest Element in an Array](./Day-083-Kth-Largest-Element-in-an-Array) | 🟡 Medium |  | ⬜ |  |
 | 84 | [973](https://leetcode.com/problems/k-closest-points-to-origin/) | [K Closest Points to Origin](./Day-084-K-Closest-Points-to-Origin) | 🟡 Medium |  | ⬜ |  |
 | 85 | [295](https://leetcode.com/problems/find-median-from-data-stream/) | [Find Median from Data Stream](./Day-085-Find-Median-from-Data-Stream) | 🔴 Hard |  | ⬜ |  |
+
 
 ### Phase 10 - Backtracking
 
@@ -233,6 +241,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 90 | [22](https://leetcode.com/problems/generate-parentheses/) | [Generate Parentheses](./Day-090-Generate-Parentheses) | 🟡 Medium |  | ⬜ |  |
 | 91 | [39](https://leetcode.com/problems/combination-sum/) | [Combination Sum](./Day-091-Combination-Sum) | 🟡 Medium |  | ⬜ |  |
 | 92 | [79](https://leetcode.com/problems/word-search/) | [Word Search](./Day-092-Word-Search) | 🟡 Medium |  | ⬜ |  |
+
 
 ### Phase 11 - Graphs
 
@@ -252,6 +261,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 102 | [207](https://leetcode.com/problems/course-schedule/) | [Course Schedule](./Day-102-Course-Schedule) | 🟡 Medium |  | ⬜ |  |
 | 103 | [210](https://leetcode.com/problems/course-schedule-ii/) | [Course Schedule II](./Day-103-Course-Schedule-II) | 🟡 Medium |  | ⬜ |  |
 | 104 | [310](https://leetcode.com/problems/minimum-height-trees/) | [Minimum Height Trees](./Day-104-Minimum-Height-Trees) | 🟡 Medium |  | ⬜ |  |
+
 
 ### Phase 12 - Dynamic Programming
 
@@ -274,6 +284,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 117 | [5](https://leetcode.com/problems/longest-palindromic-substring/) | [Longest Palindromic Substring](./Day-117-Longest-Palindromic-Substring) | 🟡 Medium |  | ⬜ |  |
 | 118 | [647](https://leetcode.com/problems/palindromic-substrings/) | [Palindromic Substrings](./Day-118-Palindromic-Substrings) | 🟡 Medium |  | ⬜ |  |
 
+
 ### Phase 13 - Greedy and Intervals
 
 **Days 119-126** | Local choices, sorting, range merging, and scheduling-style problems.
@@ -289,6 +300,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 125 | [986](https://leetcode.com/problems/interval-list-intersections/) | [Interval List Intersections](./Day-125-Interval-List-Intersections) | 🟡 Medium |  | ⬜ |  |
 | 126 | [1094](https://leetcode.com/problems/car-pooling/) | [Car Pooling](./Day-126-Car-Pooling) | 🟡 Medium |  | ⬜ |  |
 
+
 ### Phase 14 - Math and Matrix
 
 **Days 127-133** | Number tricks and matrix manipulation.
@@ -302,6 +314,7 @@ Click a **problem name** to open my solution folder, or the **#** to open it on 
 | 131 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](./Day-131-Set-Matrix-Zeroes) | 🟡 Medium |  | ⬜ |  |
 | 132 | [54](https://leetcode.com/problems/spiral-matrix/) | [Spiral Matrix](./Day-132-Spiral-Matrix) | 🟡 Medium |  | ⬜ |  |
 | 133 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](./Day-133-Rotate-Image) | 🟡 Medium |  | ⬜ |  |
+
 
 ### Phase 15 - Bit Manipulation
 
