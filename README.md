@@ -24,11 +24,11 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 1 of 140 complete** | **1 / 140 solved**
+**Day 2 of 140 complete** | **2 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 1      | 51      |
+| 🟢 Easy    | 2      | 51      |
 | 🟡 Medium  | 0      | 83      |
 | 🔴 Hard    | 0      | 6       |
 | **All**    | **0**  | **140** |
