@@ -39,7 +39,3 @@ Example 2:
 ## Solution
 
 - **Language**: Python3
-
----
-
-*Pushed by [LeetSync](https://github.com/)*
