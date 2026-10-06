@@ -60,7 +60,3 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ## Solution
 
 - **Language**: Python3
-
----
-
-*Pushed by [LeetSync](https://github.com/)*
