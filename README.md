@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 3 of 140 complete** | **2 / 140 solved**
+**Day 4 of 140 complete** | **4 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 3     | 51      |
+| 🟢 Easy    | 4     | 51      |
 | 🟡 Medium  | 0      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **0**  | **140** |
+| **All**    | **4**  | **140** |
 
 ---
 
@@ -80,7 +80,7 @@ Day-001-Longest-Common-Prefix/
 | 1 | [14](https://leetcode.com/problems/longest-common-prefix/) | [Longest Common Prefix](./Day-001-Longest-Common-Prefix) | 🟢 Easy | Vertical Scanning | ✅ |  |
 | 2 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](./Day-002-Remove-Duplicates-from-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
 | 3 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](./Day-003-Move-Zeroes) | 🟢 Easy | Two Pointers | ✅ |  |
-| 4 | [88](https://leetcode.com/problems/merge-sorted-array/) | [Merge Sorted Array](./Day-004-Merge-Sorted-Array) | 🟢 Easy |  | ⬜ |  |
+| 4 | [88](https://leetcode.com/problems/merge-sorted-array/) | [Merge Sorted Array](./Day-004-Merge-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
 | 5 | [169](https://leetcode.com/problems/majority-element/) | [Majority Element](./Day-005-Majority-Element) | 🟢 Easy |  | ⬜ |  |
 | 6 | [392](https://leetcode.com/problems/is-subsequence/) | [Is Subsequence](./Day-006-Is-Subsequence) | 🟢 Easy |  | ⬜ |  |
 | 7 | [383](https://leetcode.com/problems/ransom-note/) | [Ransom Note](./Day-007-Ransom-Note) | 🟢 Easy |  | ⬜ |  |

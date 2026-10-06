@@ -60,7 +60,3 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 ## Solution
 
 - **Language**: Python3
-
----
-
-*Pushed by [LeetSync](https://github.com/)*
