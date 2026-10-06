@@ -41,7 +41,3 @@ Example 2:
 - **Language**: Python
 - **Runtime**: 0 ms
 - **Memory**: 12.3 MB
-
----
-
-*Pushed by [LeetSync](https://github.com/)*
