@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-07T04:45:24.446Z",
+  "updatedAt": "2026-10-07T04:45:47.242Z",
   "problems": [
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "0088-merge-sorted-array/",
+      "readmePath": "0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "117c33248de991fce37095a6435ceb0c0f4e65c2",
+          "lastSyncedAt": "2026-10-07T04:45:47.242Z"
+        }
+      ]
+    },
     {
       "frontendId": "169",
       "title": "Majority Element",
