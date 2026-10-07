@@ -355,3 +355,69 @@ If this repo helps you in any way:
 ## 🙌 Credits
 
 All problems are from [LeetCode](https://leetcode.com/).
+
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 8 | 8 | 0 | 0 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 5 days | 5 days | 8 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-08-08 | 1 |
+| 2026-08-09 | 1 |
+| 2026-08-10 | 1 |
+| 2026-10-03 | 1 |
+| 2026-10-04 | 1 |
+| 2026-10-05 | 1 |
+| 2026-10-06 | 1 |
+| 2026-10-07 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| Array | 6 | 75% |
+| Hash Table | 3 | 38% |
+| Two Pointers | 3 | 38% |
+| Math | 2 | 25% |
+| Sorting | 2 | 25% |
+| String | 2 | 25% |
+| Boyer–Moore Majority Vote Algorithm | 1 | 13% |
+| Counting | 1 | 13% |
+| Divide and Conquer | 1 | 13% |
+| Trie | 1 | 13% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](Topics/array/) | 6 |
+| [Backtracking](Topics/backtracking/) | 0 |
+| [Binary Search](Topics/binary-search/) | 0 |
+| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
+| [Counting](Topics/counting/) | 1 |
+| [Data Structures](Topics/data-structures/) | 0 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Graph](Topics/graph/) | 0 |
+| [Hash Table](Topics/hash-table/) | 3 |
+| [Heap](Topics/heap/) | 0 |
+| [Linked List](Topics/linked-list/) | 0 |
+| [Math](Topics/math/) | 2 |
+| [Matrix](Topics/matrix/) | 0 |
+| [Sorting](Topics/sorting/) | 2 |
+| [Stack](Topics/stack/) | 0 |
+| [String](Topics/string/) | 2 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
+<!---LeetHub Summary End-->
