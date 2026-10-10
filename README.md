@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 7 of 140 complete** | **7 / 140 solved**
+**Day 8 of 140 complete** | **8 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 7     | 51      |
+| 🟢 Easy    | 8     | 51      |
 | 🟡 Medium  | 0      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **7**  | **140** |
+| **All**    | **8**  | **140** |
 
 ---
 
@@ -84,7 +84,7 @@ Day-001-Longest-Common-Prefix/
 | 5 | [169](https://leetcode.com/problems/majority-element/) | [Majority Element](./Day-005-Majority-Element) | 🟢 Easy | Boyer-Moore Voting | ✅ |  |
 | 6 | [392](https://leetcode.com/problems/is-subsequence/) | [Is Subsequence](./Day-006-Is-Subsequence) | 🟢 Easy | Two Pointers | ✅ |  |
 | 7 | [383](https://leetcode.com/problems/ransom-note/) | [Ransom Note](./Day-007-Ransom-Note) | 🟢 Easy | Frequency Counting | ✅ |  |
-| 8 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](./Day-008-Squares-of-a-Sorted-Array) | 🟢 Easy |  | ⬜ |  |
+| 8 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](./Day-008-Squares-of-a-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
 | 9 | [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](./Day-009-Contains-Duplicate) | 🟢 Easy |  | ⬜ |  |
 | 10 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](./Day-010-Valid-Anagram) | 🟢 Easy |  | ⬜ |  |
 | 11 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./Day-011-Two-Sum) | 🟢 Easy |  | ⬜ |  |
