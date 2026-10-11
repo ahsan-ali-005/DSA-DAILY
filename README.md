@@ -77,7 +77,7 @@ Day-001-Longest-Common-Prefix/
 
 | Day | # | Problem | Difficulty | Technique | Solved | Review |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
-| 1 | [14](https://leetcode.com/problems/longest-common-prefix/) | [Longest Common Prefix](./Day-001-Longest-Common-Prefix) | 🟢 Easy | Vertical Scanning | ✅ |  |
+| 1 | [14](https://leetcode.com/problems/longest-common-prefix/) | [Longest Common Prefix](./Day-001-Longest-Common-Prefix) | 🟢 Easy | Vertical Scanning | ✅ | ✅ |
 | 2 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](./Day-002-Remove-Duplicates-from-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
 | 3 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](./Day-003-Move-Zeroes) | 🟢 Easy | Two Pointers | ✅ |  |
 | 4 | [88](https://leetcode.com/problems/merge-sorted-array/) | [Merge Sorted Array](./Day-004-Merge-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
