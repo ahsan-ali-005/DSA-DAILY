@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 9 of 140 complete** | **9 / 140 solved**
+**Day 10 of 140 complete** | **10 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 9     | 51      |
+| 🟢 Easy    | 10     | 51      |
 | 🟡 Medium  | 0      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **9**  | **140** |
+| **All**    | **10**  | **140** |
 
 ---
 
@@ -86,7 +86,7 @@ Day-001-Longest-Common-Prefix/
 | 7 | [383](https://leetcode.com/problems/ransom-note/) | [Ransom Note](./Day-007-Ransom-Note) | 🟢 Easy | Frequency Counting | ✅ |  |
 | 8 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](./Day-008-Squares-of-a-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
 | 9 | [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](./Day-009-Contains-Duplicate) | 🟢 Easy | Hash Set | ✅ |  |
-| 10 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](./Day-010-Valid-Anagram) | 🟢 Easy |  | ⬜ |  |
+| 10 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](./Day-010-Valid-Anagram) | 🟢 Easy | Frequency Counting | ✅ |  |
 | 11 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./Day-011-Two-Sum) | 🟢 Easy |  | ⬜ |  |
 | 12 | [303](https://leetcode.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](./Day-012-Range-Sum-Query-Immutable) | 🟢 Easy |  | ⬜ |  |
 | 13 | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](./Day-013-Group-Anagrams) | 🟡 Medium |  | ⬜ |  |
