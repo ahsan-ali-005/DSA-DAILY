@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 10 of 140 complete** | **10 / 140 solved**
+**Day 11 of 140 complete** | **11 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 10     | 51      |
+| 🟢 Easy    | 11     | 51      |
 | 🟡 Medium  | 0      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **10**  | **140** |
+| **All**    | **11**  | **140** |
 
 ---
 
@@ -87,7 +87,7 @@ Day-001-Longest-Common-Prefix/
 | 8 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](./Day-008-Squares-of-a-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
 | 9 | [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](./Day-009-Contains-Duplicate) | 🟢 Easy | Hash Set | ✅ |  |
 | 10 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](./Day-010-Valid-Anagram) | 🟢 Easy | Frequency Counting | ✅ |  |
-| 11 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./Day-011-Two-Sum) | 🟢 Easy |  | ⬜ |  |
+| 11 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./Day-011-Two-Sum) | 🟢 Easy | Hash Map | ✅ |  |
 | 12 | [303](https://leetcode.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](./Day-012-Range-Sum-Query-Immutable) | 🟢 Easy |  | ⬜ |  |
 | 13 | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](./Day-013-Group-Anagrams) | 🟡 Medium |  | ⬜ |  |
 | 14 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./Day-014-Top-K-Frequent-Elements) | 🟡 Medium |  | ⬜ |  |
