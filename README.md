@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 13 of 140 complete** | **13 / 140 solved**
+**Day 14 of 140 complete** | **14 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 12     | 51      |
-| 🟡 Medium  | 1      | 83      |
+| 🟡 Medium  | 2      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **13**  | **140** |
+| **All**    | **14**  | **140** |
 
 ---
 
@@ -90,7 +90,7 @@ Day-001-Longest-Common-Prefix/
 | 11 | [1](https://leetcode.com/problems/two-sum/) | [Two Sum](./Day-011-Two-Sum) | 🟢 Easy | Hash Map | ✅ |  |
 | 12 | [303](https://leetcode.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](./Day-012-Range-Sum-Query-Immutable) | 🟢 Easy | Prefix Sum Array | ✅ |  |
 | 13 | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](./Day-013-Group-Anagrams) | 🟡 Medium | Hash Map | ✅ |  |
-| 14 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./Day-014-Top-K-Frequent-Elements) | 🟡 Medium |  | ⬜ |  |
+| 14 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](./Day-014-Top-K-Frequent-Elements) | 🟡 Medium | Hash Map | ✅ |  |
 
 
 ### Phase 2 - Two Pointers
