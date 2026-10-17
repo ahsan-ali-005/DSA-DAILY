@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 14 of 140 complete** | **14 / 140 solved**
+**Day 15 of 140 complete** | **15 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 12     | 51      |
-| 🟡 Medium  | 2      | 83      |
+| 🟡 Medium  | 3      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **14**  | **140** |
+| **All**    | **15**  | **140** |
 
 ---
 
@@ -99,7 +99,7 @@ Day-001-Longest-Common-Prefix/
 
 | Day | # | Problem | Difficulty | Technique | Solved | Review |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
-| 15 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./Day-015-Product-of-Array-Except-Self) | 🟡 Medium |  | ⬜ |  |
+| 15 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./Day-015-Product-of-Array-Except-Self) | 🟡 Medium | Prefix & Suffix | ✅ |  |
 | 16 | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Day-016-Valid-Sudoku) | 🟡 Medium |  | ⬜ |  |
 | 17 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](./Day-017-Subarray-Sum-Equals-K) | 🟡 Medium |  | ⬜ |  |
 | 18 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](./Day-018-Longest-Consecutive-Sequence) | 🟡 Medium |  | ⬜ |  |
