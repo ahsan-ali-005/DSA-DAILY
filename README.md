@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 16 of 140 complete** | **16 / 140 solved**
+**Day 17 of 140 complete** | **17 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 12     | 51      |
-| 🟡 Medium  | 4      | 83      |
+| 🟡 Medium  | 5      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **16**  | **140** |
+| **All**    | **17**  | **140** |
 
 ---
 
@@ -101,7 +101,7 @@ Day-001-Longest-Common-Prefix/
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 15 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./Day-015-Product-of-Array-Except-Self) | 🟡 Medium | Prefix & Suffix | ✅ |  |
 | 16 | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Day-016-Valid-Sudoku) | 🟡 Medium | Hash Set | ✅ |  |
-| 17 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](./Day-017-Subarray-Sum-Equals-K) | 🟡 Medium |  | ⬜ |  |
+| 17 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](./Day-017-Subarray-Sum-Equals-K) | 🟡 Medium | Prefix Sum + Hash Map | ✅ |  |
 | 18 | [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](./Day-018-Longest-Consecutive-Sequence) | 🟡 Medium |  | ⬜ |  |
 | 19 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](./Day-019-Maximum-Subarray) | 🟡 Medium |  | ⬜ |  |
 | 20 | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./Day-020-Valid-Palindrome) | 🟢 Easy |  | ⬜ |  |

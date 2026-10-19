@@ -1,4 +1,4 @@
-# Day 15: Subarray Sum Equals K (LeetCode 560)
+# Day 17: Subarray Sum Equals K (LeetCode 560)
 
 ## Code Understanding
 
