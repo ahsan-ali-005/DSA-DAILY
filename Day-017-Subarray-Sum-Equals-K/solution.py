@@ -14,7 +14,6 @@ class Solution(object):
                 seen[prefix] += 1
             else:
                 seen[prefix] = 1
-
         return count
 
 ob = Solution()
