@@ -1,4 +1,4 @@
-# Day NN: Maximum Subarray (LeetCode 53)
+# Day 19: Maximum Subarray (LeetCode 53)
 
 ## Code Understanding
 **Approach of code: (thinking when code)**
