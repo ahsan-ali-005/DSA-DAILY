@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 21 of 140 complete** | **21 / 140 solved**
+**Day 22 of 140 complete** | **22 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 14     | 51      |
-| 🟡 Medium  | 7      | 83      |
+| 🟡 Medium  | 8      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **21**  | **140** |
+| **All**    | **22**  | **140** |
 
 ---
 
