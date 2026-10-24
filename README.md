@@ -106,7 +106,7 @@ Day-001-Longest-Common-Prefix/
 | 19 | [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](./Day-019-Maximum-Subarray) | 🟡 Medium | Kadane’s Algorithm | ✅ |  |
 | 20 | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./Day-020-Valid-Palindrome) | 🟢 Easy | Two Pointers | ✅ |  |
 | 21 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](./Day-021-Valid-Palindrome-II) | 🟢 Easy | Two Pointers | ✅ |  |
-| 22 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](./Day-022-Two-Sum-II-Input-Array-Is-Sorted) | 🟡 Medium |  | ⬜ |  |
+| 22 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](./Day-022-Two-Sum-II-Input-Array-Is-Sorted) | 🟡 Medium | Two Pointers | ✅ |  |
 | 23 | [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](./Day-023-Sort-Colors) | 🟡 Medium |  | ⬜ |  |
 | 24 | [15](https://leetcode.com/problems/3sum/) | [3Sum](./Day-024-3Sum) | 🟡 Medium |  | ⬜ |  |
 | 25 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Day-025-Container-With-Most-Water) | 🟡 Medium |  | ⬜ |  |
