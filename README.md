@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 22 of 140 complete** | **22 / 140 solved**
+**Day 23 of 140 complete** | **23 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 14     | 51      |
-| 🟡 Medium  | 8      | 83      |
+| 🟡 Medium  | 9      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **22**  | **140** |
+| **All**    | **23**  | **140** |
 
 ---
 
@@ -107,7 +107,7 @@ Day-001-Longest-Common-Prefix/
 | 20 | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](./Day-020-Valid-Palindrome) | 🟢 Easy | Two Pointers | ✅ |  |
 | 21 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](./Day-021-Valid-Palindrome-II) | 🟢 Easy | Two Pointers | ✅ |  |
 | 22 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](./Day-022-Two-Sum-II-Input-Array-Is-Sorted) | 🟡 Medium | Two Pointers | ✅ |  |
-| 23 | [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](./Day-023-Sort-Colors) | 🟡 Medium |  | ⬜ |  |
+| 23 | [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](./Day-023-Sort-Colors) | 🟡 Medium | Counting Sort | ✅ |  |
 | 24 | [15](https://leetcode.com/problems/3sum/) | [3Sum](./Day-024-3Sum) | 🟡 Medium |  | ⬜ |  |
 | 25 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Day-025-Container-With-Most-Water) | 🟡 Medium |  | ⬜ |  |
 
