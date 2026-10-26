@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 23 of 140 complete** | **23 / 140 solved**
+**Day 24 of 140 complete** | **24 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 14     | 51      |
-| 🟡 Medium  | 9      | 83      |
+| 🟡 Medium  | 10      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **23**  | **140** |
+| **All**    | **24**  | **140** |
 
 ---
 
@@ -108,7 +108,7 @@ Day-001-Longest-Common-Prefix/
 | 21 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](./Day-021-Valid-Palindrome-II) | 🟢 Easy | Two Pointers | ✅ |  |
 | 22 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](./Day-022-Two-Sum-II-Input-Array-Is-Sorted) | 🟡 Medium | Two Pointers | ✅ |  |
 | 23 | [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](./Day-023-Sort-Colors) | 🟡 Medium | Counting Sort | ✅ |  |
-| 24 | [15](https://leetcode.com/problems/3sum/) | [3Sum](./Day-024-3Sum) | 🟡 Medium |  | ⬜ |  |
+| 24 | [15](https://leetcode.com/problems/3sum/) | [3Sum](./Day-024-3Sum) | 🟡 Medium | Sorting + Two Pointers | ✅ |  |
 | 25 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Day-025-Container-With-Most-Water) | 🟡 Medium |  | ⬜ |  |
 
 

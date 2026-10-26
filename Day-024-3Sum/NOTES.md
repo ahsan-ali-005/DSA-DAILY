@@ -1,4 +1,4 @@
-# Day 20: 3Sum (LeetCode 15)
+# Day 24: 3Sum (LeetCode 15)
 
 ## Code Understanding
 **Approach of code: (thinking when code)**
