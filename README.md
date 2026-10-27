@@ -109,7 +109,7 @@ Day-001-Longest-Common-Prefix/
 | 22 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](./Day-022-Two-Sum-II-Input-Array-Is-Sorted) | 🟡 Medium | Two Pointers | ✅ |  |
 | 23 | [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](./Day-023-Sort-Colors) | 🟡 Medium | Counting Sort | ✅ |  |
 | 24 | [15](https://leetcode.com/problems/3sum/) | [3Sum](./Day-024-3Sum) | 🟡 Medium | Sorting + Two Pointers | ✅ |  |
-| 25 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Day-025-Container-With-Most-Water) | 🟡 Medium |  | ⬜ |  |
+| 25 | [11](https://leetcode.com/problems/container-with-most-water/) | [Container With Most Water](./Day-025-Container-With-Most-Water) | 🟡 Medium | Two Pointers | ✅ |  |
 
 
 ### Phase 3 - Sliding Window
