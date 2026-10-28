@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 25 of 140 complete** | **25 / 140 solved**
+**Day 26 of 140 complete** | **26 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 14     | 51      |
+| 🟢 Easy    | 15     | 51      |
 | 🟡 Medium  | 11      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **25**  | **140** |
+| **All**    | **26**  | **140** |
 
 ---
 
@@ -118,7 +118,7 @@ Day-001-Longest-Common-Prefix/
 
 | Day | # | Problem | Difficulty | Technique | Solved | Review |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
-| 26 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](./Day-026-Best-Time-to-Buy-and-Sell-Stock) | 🟢 Easy |  | ⬜ |  |
+| 26 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](./Day-026-Best-Time-to-Buy-and-Sell-Stock) | 🟢 Easy | Two Pointers | ✅ |  |
 | 27 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](./Day-027-Maximum-Average-Subarray-I) | 🟢 Easy |  | ⬜ |  |
 | 28 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./Day-028-Longest-Substring-Without-Repeating-Characters) | 🟡 Medium |  | ⬜ |  |
 | 29 | [209](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Minimum Size Subarray Sum](./Day-029-Minimum-Size-Subarray-Sum) | 🟡 Medium |  | ⬜ |  |
