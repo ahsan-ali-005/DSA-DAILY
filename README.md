@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 28 of 140 complete** | **28 / 140 solved**
+**Day 29 of 140 complete** | **29 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 16     | 51      |
-| 🟡 Medium  | 12      | 83      |
+| 🟡 Medium  | 13      | 83      |
 | 🔴 Hard    | 0      | 6       |
-| **All**    | **28**  | **140** |
+| **All**    | **29**  | **140** |
 
 ---
 
@@ -121,7 +121,7 @@ Day-001-Longest-Common-Prefix/
 | 26 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](./Day-026-Best-Time-to-Buy-and-Sell-Stock) | 🟢 Easy | Two Pointers | ✅ |  |
 | 27 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](./Day-027-Maximum-Average-Subarray-I) | 🟢 Easy | Fixed Sliding Window | ✅ |  |
 | 28 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./Day-028-Longest-Substring-Without-Repeating-Characters) | 🟡 Medium | Sliding Window + Set | ✅ |  |
-| 29 | [209](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Minimum Size Subarray Sum](./Day-029-Minimum-Size-Subarray-Sum) | 🟡 Medium |  | ⬜ |  |
+| 29 | [209](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Minimum Size Subarray Sum](./Day-029-Minimum-Size-Subarray-Sum) | 🟡 Medium | Sliding Window | ✅ |  |
 | 30 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](./Day-030-Find-All-Anagrams-in-a-String) | 🟡 Medium |  | ⬜ |  |
 | 31 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](./Day-031-Permutation-in-String) | 🟡 Medium |  | ⬜ |  |
 | 32 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./Day-032-Longest-Repeating-Character-Replacement) | 🟡 Medium |  | ⬜ |  |
