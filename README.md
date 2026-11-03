@@ -120,11 +120,11 @@ Day-001-Longest-Common-Prefix/
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 26 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](./Day-026-Best-Time-to-Buy-and-Sell-Stock) | 🟢 Easy | Two Pointers | ✅ |  |
 | 27 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](./Day-027-Maximum-Average-Subarray-I) | 🟢 Easy | Fixed Sliding Window | ✅ |  |
-| 28 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./Day-028-Longest-Substring-Without-Repeating-Characters) | 🟡 Medium | Sliding Window + Set | ✅ |  |
+| 28 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./Day-028-Longest-Substring-without-Repeating-Characters) | 🟡 Medium | Sliding Window + Set | ✅ |  |
 | 29 | [209](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Minimum Size Subarray Sum](./Day-029-Minimum-Size-Subarray-Sum) | 🟡 Medium | Sliding Window | ✅ |  |
 | 30 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](./Day-030-Find-All-Anagrams-in-a-String) | 🟡 Medium | Fixed-size Sliding Window + Frequency Counting | ✅ |  |
 | 31 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](./Day-031-Permutation-in-String) | 🟡 Medium | Fixed-size Sliding Window + Frequency Count | ✅ |  |
-| 32 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./Day-032-Longest-Repeating-Character-Replacement) | 🟡 Medium |  | ⬜ |  |
+| 32 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./Day-032-Longest-Repeating-Character-Replacement) | 🟡 Medium | Variable-size Sliding Window + Frequency Count | ✅ |  |
 | 33 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./Day-033-Minimum-Window-Substring) | 🔴 Hard |  | ⬜ |  |
 
 
