@@ -125,7 +125,7 @@ Day-001-Longest-Common-Prefix/
 | 30 | [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](./Day-030-Find-All-Anagrams-in-a-String) | 🟡 Medium | Fixed-size Sliding Window + Frequency Counting | ✅ |  |
 | 31 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](./Day-031-Permutation-in-String) | 🟡 Medium | Fixed-size Sliding Window + Frequency Count | ✅ |  |
 | 32 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](./Day-032-Longest-Repeating-Character-Replacement) | 🟡 Medium | Variable-size Sliding Window + Frequency Count | ✅ |  |
-| 33 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./Day-033-Minimum-Window-Substring) | 🔴 Hard |  | ⬜ |  |
+| 33 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](./Day-033-Minimum-Window-Substring) | 🔴 Hard | Sliding Window + Frequency Count | ✅ |  |
 
 
 ### Phase 4 - Stack
