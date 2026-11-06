@@ -135,7 +135,7 @@ Day-001-Longest-Common-Prefix/
 | Day | # | Problem | Difficulty | Technique | Solved | Review |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 34 | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./Day-034-Valid-Parentheses) | 🟢 Easy | Stack | ✅ |  |
-| 35 | [155](https://leetcode.com/problems/min-stack/) | [Min Stack](./Day-035-Min-Stack) | 🟡 Medium |  | ⬜ |  |
+| 35 | [155](https://leetcode.com/problems/min-stack/) | [Min Stack](./Day-035-Min-Stack) | 🟡 Medium | Stack | ✅ |  |
 | 36 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](./Day-036-Evaluate-Reverse-Polish-Notation) | 🟡 Medium |  | ⬜ |  |
 | 37 | [739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](./Day-037-Daily-Temperatures) | 🟡 Medium |  | ⬜ |  |
 | 38 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Day-038-Asteroid-Collision) | 🟡 Medium |  | ⬜ |  |
