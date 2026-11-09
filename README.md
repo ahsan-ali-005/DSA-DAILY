@@ -64,7 +64,7 @@ Day-001-Longest-Common-Prefix/
 - Try before looking
 - Patterns matter more than individual problems
 - Review is part of solving
-- Consistency over spee
+- Consistency over speed
 
 ---
 
