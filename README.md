@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 37 of 140 complete** | **37 / 140 solved**
+**Day 38 of 140 complete** | **38 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 17     | 51      |
-| 🟡 Medium  | 19      | 83      |
+| 🟡 Medium  | 20      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **37**  | **140** |
+| **All**    | **38**  | **140** |
 
 ---
 
@@ -138,7 +138,7 @@ Day-001-Longest-Common-Prefix/
 | 35 | [155](https://leetcode.com/problems/min-stack/) | [Min Stack](./Day-035-Min-Stack) | 🟡 Medium | Stack | ✅ |  |
 | 36 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](./Day-036-Evaluate-Reverse-Polish-Notation) | 🟡 Medium | Stack | ✅ |  |
 | 37 | [739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](./Day-037-Daily-Temperatures) | 🟡 Medium | Monotonic Stack | ✅ |  |
-| 38 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Day-038-Asteroid-Collision) | 🟡 Medium |  | ⬜ |  |
+| 38 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Day-038-Asteroid-Collision) | 🟡 Medium | Stack | ✅ |  |
 | 39 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](./Day-039-Decode-String) | 🟡 Medium |  | ⬜ |  |
 
 
