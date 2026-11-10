@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 38 of 140 complete** | **38 / 140 solved**
+**Day 39 of 140 complete** | **39 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 17     | 51      |
-| 🟡 Medium  | 20      | 83      |
+| 🟡 Medium  | 21      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **38**  | **140** |
+| **All**    | **39**  | **140** |
 
 ---
 
@@ -139,7 +139,7 @@ Day-001-Longest-Common-Prefix/
 | 36 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](./Day-036-Evaluate-Reverse-Polish-Notation) | 🟡 Medium | Stack | ✅ |  |
 | 37 | [739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](./Day-037-Daily-Temperatures) | 🟡 Medium | Monotonic Stack | ✅ |  |
 | 38 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](./Day-038-Asteroid-Collision) | 🟡 Medium | Stack | ✅ |  |
-| 39 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](./Day-039-Decode-String) | 🟡 Medium |  | ⬜ |  |
+| 39 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](./Day-039-Decode-String) | 🟡 Medium | Stack | ✅ |  |
 
 
 ### Phase 5 - Binary Search
