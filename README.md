@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 39 of 140 complete** | **39 / 140 solved**
+**Day 40 of 140 complete** | **40 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 17     | 51      |
+| 🟢 Easy    | 18     | 51      |
 | 🟡 Medium  | 21      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **39**  | **140** |
+| **All**    | **40**  | **140** |
 
 ---
 
@@ -148,7 +148,7 @@ Day-001-Longest-Common-Prefix/
 
 | Day | # | Problem | Difficulty | Technique | Solved | Review |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
-| 40 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](./Day-040-Binary-Search) | 🟢 Easy |  | ⬜ |  |
+| 40 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](./Day-040-Binary-Search) | 🟢 Easy | Binary Search | ✅ |  |
 | 41 | [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Day-041-Search-Insert-Position) | 🟢 Easy |  | ⬜ |  |
 | 42 | [69](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](./Day-042-Sqrtx) | 🟢 Easy |  | ⬜ |  |
 | 43 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Day-043-Search-a-2D-Matrix) | 🟡 Medium |  | ⬜ |  |
