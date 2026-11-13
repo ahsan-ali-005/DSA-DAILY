@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 41 of 140 complete** | **41 / 140 solved**
+**Day 42 of 140 complete** | **42 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 19     | 51      |
+| 🟢 Easy    | 20     | 51      |
 | 🟡 Medium  | 21      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **41**  | **140** |
+| **All**    | **42**  | **140** |
 
 ---
 
@@ -150,7 +150,7 @@ Day-001-Longest-Common-Prefix/
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 40 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](./Day-040-Binary-Search) | 🟢 Easy | Binary Search | ✅ |  |
 | 41 | [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Day-041-Search-Insert-Position) | 🟢 Easy | Binary Search | ✅ |  |
-| 42 | [69](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](./Day-042-Sqrtx) | 🟢 Easy |  | ⬜ |  |
+| 42 | [69](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](./Day-042-Sqrtx) | 🟢 Easy | Binary Search | ✅ |  |
 | 43 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Day-043-Search-a-2D-Matrix) | 🟡 Medium |  | ⬜ |  |
 | 44 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](./Day-044-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | 🟡 Medium |  | ⬜ |  |
 | 45 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./Day-045-Koko-Eating-Bananas) | 🟡 Medium |  | ⬜ |  |
