@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 44 of 140 complete** | **44 / 140 solved**
+**Day 45 of 140 complete** | **45 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 20     | 51      |
-| 🟡 Medium  | 23      | 83      |
+| 🟡 Medium  | 24      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **44**  | **140** |
+| **All**    | **45**  | **140** |
 
 ---
 
@@ -153,7 +153,7 @@ Day-001-Longest-Common-Prefix/
 | 42 | [69](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](./Day-042-Sqrtx) | 🟢 Easy | Binary Search | ✅ |  |
 | 43 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Day-043-Search-a-2D-Matrix) | 🟡 Medium | 2D Binary Search | ✅ |  |
 | 44 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](./Day-044-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | 🟡 Medium | Binary Search | ✅ |  |
-| 45 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./Day-045-Koko-Eating-Bananas) | 🟡 Medium |  | ⬜ |  |
+| 45 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./Day-045-Koko-Eating-Bananas) | 🟡 Medium | Binary Search on Answer | ✅ |  |
 | 46 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./Day-046-Find-Minimum-in-Rotated-Sorted-Array) | 🟡 Medium |  | ⬜ |  |
 | 47 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Day-047-Search-in-Rotated-Sorted-Array) | 🟡 Medium |  | ⬜ |  |
 
