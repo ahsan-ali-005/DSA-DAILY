@@ -20,7 +20,7 @@ At least one half is always sorted, and a sorted half lets me say for sure wheth
 - `l=4, r=4, mid=4` (0): found → return `4`
 
 ## Pattern
-**Modified Binary Search** (find the sorted half, then decide)
+**Binary Search** (find the sorted half, then decide)
 - Same halving idea as Binary Search (LeetCode 704), with one extra step before moving a pointer
 
 ## Complexity

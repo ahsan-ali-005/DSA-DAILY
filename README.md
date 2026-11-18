@@ -75,7 +75,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 1-14** | Arrays, strings, hash maps, sets, frequency counting, prefix/suffix ideas, and basic array problem solving.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 1 | [14](https://leetcode.com/problems/longest-common-prefix/) | [Longest Common Prefix](./Day-001-Longest-Common-Prefix) | 🟢 Easy | Vertical Scanning | ✅ | ✅ |
 | 2 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](./Day-002-Remove-Duplicates-from-Sorted-Array) | 🟢 Easy | Two Pointers | ✅ |  |
@@ -97,7 +97,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 15-25** | Use two indices to scan efficiently instead of repeatedly comparing every possible pair.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 15 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](./Day-015-Product-of-Array-Except-Self) | 🟡 Medium | Prefix & Suffix | ✅ |  |
 | 16 | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Day-016-Valid-Sudoku) | 🟡 Medium | Hash Set | ✅ |  |
@@ -116,7 +116,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 26-33** | Keep a moving window and update its state instead of recomputing it.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 26 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](./Day-026-Best-Time-to-Buy-and-Sell-Stock) | 🟢 Easy | Two Pointers | ✅ |  |
 | 27 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](./Day-027-Maximum-Average-Subarray-I) | 🟢 Easy | Fixed Sliding Window | ✅ |  |
@@ -132,7 +132,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 34-39** | LIFO thinking: matching, nested structures, evaluation, and monotonic stacks.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 34 | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](./Day-034-Valid-Parentheses) | 🟢 Easy | Stack | ✅ |  |
 | 35 | [155](https://leetcode.com/problems/min-stack/) | [Min Stack](./Day-035-Min-Stack) | 🟡 Medium | Stack | ✅ |  |
@@ -146,7 +146,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 40-47** | Halve the search space on sorted arrays, rotated arrays, and problems where the answer itself can be searched.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 40 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](./Day-040-Binary-Search) | 🟢 Easy | Binary Search | ✅ |  |
 | 41 | [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Day-041-Search-Insert-Position) | 🟢 Easy | Binary Search | ✅ |  |
@@ -155,14 +155,14 @@ Day-001-Longest-Common-Prefix/
 | 44 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](./Day-044-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | 🟡 Medium | Binary Search | ✅ |  |
 | 45 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](./Day-045-Koko-Eating-Bananas) | 🟡 Medium | Binary Search on Answer | ✅ |  |
 | 46 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](./Day-046-Find-Minimum-in-Rotated-Sorted-Array) | 🟡 Medium | Binary Search | ✅ |  |
-| 47 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Day-047-Search-in-Rotated-Sorted-Array) | 🟡 Medium |  | ⬜ |  |
+| 47 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Day-047-Search-in-Rotated-Sorted-Array) | 🟡 Medium | Binary Search | ✅ |  |
 
 
 ### Phase 6 - Linked List
 
 **Days 48-59** | Pointer manipulation, dummy nodes, and fast and slow pointers.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 48 | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./Day-048-Reverse-Linked-List) | 🟢 Easy |  | ⬜ |  |
 | 49 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](./Day-049-Merge-Two-Sorted-Lists) | 🟢 Easy |  | ⬜ |  |
@@ -182,7 +182,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 60-77** | Recursion on trees, DFS, BFS, and BST properties.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 60 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](./Day-060-Maximum-Depth-of-Binary-Tree) | 🟢 Easy |  | ⬜ |  |
 | 61 | [226](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](./Day-061-Invert-Binary-Tree) | 🟢 Easy |  | ⬜ |  |
@@ -208,7 +208,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 78-80** | Prefix trees for fast prefix lookup, combined with DFS where needed.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 78 | [208](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Implement Trie (Prefix Tree)](./Day-078-Implement-Trie-Prefix-Tree) | 🟡 Medium |  | ⬜ |  |
 | 79 | [211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Design Add and Search Words Data Structure](./Day-079-Design-Add-and-Search-Words-Data-Structure) | 🟡 Medium |  | ⬜ |  |
@@ -219,7 +219,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 81-85** | Priority queues for top-k and streaming problems.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 81 | [1046](https://leetcode.com/problems/last-stone-weight/) | [Last Stone Weight](./Day-081-Last-Stone-Weight) | 🟢 Easy |  | ⬜ |  |
 | 82 | [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Kth Largest Element in a Stream](./Day-082-Kth-Largest-Element-in-a-Stream) | 🟢 Easy |  | ⬜ |  |
@@ -232,7 +232,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 86-92** | Systematic exploration of choices: choose, explore, and un-choose.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 86 | [78](https://leetcode.com/problems/subsets/) | [Subsets](./Day-086-Subsets) | 🟡 Medium |  | ⬜ |  |
 | 87 | [90](https://leetcode.com/problems/subsets-ii/) | [Subsets II](./Day-087-Subsets-II) | 🟡 Medium |  | ⬜ |  |
@@ -247,7 +247,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 93-104** | Grids and graphs as BFS/DFS problems, plus topological sort.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 93 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](./Day-093-Number-of-Islands) | 🟡 Medium |  | ⬜ |  |
 | 94 | [695](https://leetcode.com/problems/max-area-of-island/) | [Max Area of Island](./Day-094-Max-Area-of-Island) | 🟡 Medium |  | ⬜ |  |
@@ -267,7 +267,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 105-118** | Define the state, write the recurrence, then optimize. Start with 1-D problems before moving into selected 2-D problems.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 105 | [70](https://leetcode.com/problems/climbing-stairs/) | [Climbing Stairs](./Day-105-Climbing-Stairs) | 🟢 Easy |  | ⬜ |  |
 | 106 | [746](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](./Day-106-Min-Cost-Climbing-Stairs) | 🟢 Easy |  | ⬜ |  |
@@ -289,7 +289,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 119-126** | Local choices, sorting, range merging, and scheduling-style problems.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 119 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](./Day-119-Best-Time-to-Buy-and-Sell-Stock-II) | 🟡 Medium |  | ⬜ |  |
 | 120 | [134](https://leetcode.com/problems/gas-station/) | [Gas Station](./Day-120-Gas-Station) | 🟡 Medium |  | ⬜ |  |
@@ -305,7 +305,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 127-133** | Number tricks and matrix manipulation.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 127 | [9](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](./Day-127-Palindrome-Number) | 🟢 Easy |  | ⬜ |  |
 | 128 | [13](https://leetcode.com/problems/roman-to-integer/) | [Roman to Integer](./Day-128-Roman-to-Integer) | 🟢 Easy |  | ⬜ |  |
@@ -320,7 +320,7 @@ Day-001-Longest-Common-Prefix/
 
 **Days 134-140** | XOR, shifts, and bit masks.
 
-| Day | # | Problem | Difficulty | Technique | Solved | Review |
+| Day | # | Problem | Difficulty | Technique | Solved |  |
 | --- | --- | ------- | ---------- | --------- | ------ | ------ |
 | 134 | [136](https://leetcode.com/problems/single-number/) | [Single Number](./Day-134-Single-Number) | 🟢 Easy |  | ⬜ |  |
 | 135 | [231](https://leetcode.com/problems/power-of-two/) | [Power of Two](./Day-135-Power-of-Two) | 🟢 Easy |  | ⬜ |  |
