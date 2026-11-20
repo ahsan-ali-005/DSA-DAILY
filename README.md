@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 48 of 140 complete** | **48 / 140 solved**
+**Day 49 of 140 complete** | **49 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 21     | 51      |
+| 🟢 Easy    | 22     | 51      |
 | 🟡 Medium  | 26      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **48**  | **140** |
+| **All**    | **49**  | **140** |
 
 ---
 
@@ -165,7 +165,7 @@ Day-001-Longest-Common-Prefix/
 | Day | # | Problem | Difficulty | Technique | Solved |
 | --- | --- | ------- | ---------- | --------- | ------ |
 | 48 | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./Day-048-Reverse-Linked-List) | 🟢 Easy | Linked List | ✅ |
-| 49 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](./Day-049-Merge-Two-Sorted-Lists) | 🟢 Easy |  | ⬜ |
+| 49 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](./Day-049-Merge-Two-Sorted-Lists) | 🟢 Easy | Linked List | ✅ |
 | 50 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Day-050-Middle-of-the-Linked-List) | 🟢 Easy |  | ⬜ |
 | 51 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Day-051-Linked-List-Cycle) | 🟢 Easy |  | ⬜ |
 | 52 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](./Day-052-Palindrome-Linked-List) | 🟢 Easy |  | ⬜ |
