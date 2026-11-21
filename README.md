@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 49 of 140 complete** | **49 / 140 solved**
+**Day 50 of 140 complete** | **50 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 22     | 51      |
+| 🟢 Easy    | 23     | 51      |
 | 🟡 Medium  | 26      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **49**  | **140** |
+| **All**    | **50**  | **140** |
 
 ---
 
@@ -166,7 +166,7 @@ Day-001-Longest-Common-Prefix/
 | --- | --- | ------- | ---------- | --------- | ------ |
 | 48 | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](./Day-048-Reverse-Linked-List) | 🟢 Easy | Linked List | ✅ |
 | 49 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](./Day-049-Merge-Two-Sorted-Lists) | 🟢 Easy | Linked List | ✅ |
-| 50 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Day-050-Middle-of-the-Linked-List) | 🟢 Easy |  | ⬜ |
+| 50 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Day-050-Middle-of-the-Linked-List) | 🟢 Easy | Fast & Slow Pointers | ✅ |
 | 51 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Day-051-Linked-List-Cycle) | 🟢 Easy |  | ⬜ |
 | 52 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](./Day-052-Palindrome-Linked-List) | 🟢 Easy |  | ⬜ |
 | 53 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of Two Linked Lists](./Day-053-Intersection-of-Two-Linked-Lists) | 🟢 Easy |  | ⬜ |
