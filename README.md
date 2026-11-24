@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 52 of 140 complete** | **52 / 140 solved**
+**Day 53 of 140 complete** | **53 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
-| 🟢 Easy    | 25     | 51      |
+| 🟢 Easy    | 26     | 51      |
 | 🟡 Medium  | 26      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **52**  | **140** |
+| **All**    | **53**  | **140** |
 
 ---
 
@@ -169,7 +169,7 @@ Day-001-Longest-Common-Prefix/
 | 50 | [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./Day-050-Middle-of-the-Linked-List) | 🟢 Easy | Fast & Slow Pointers | ✅ |
 | 51 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](./Day-051-Linked-List-Cycle) | 🟢 Easy | Fast & Slow Pointers | ✅ |
 | 52 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](./Day-052-Palindrome-Linked-List) | 🟢 Easy | Fast & Slow Pointers | ✅ |
-| 53 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of Two Linked Lists](./Day-053-Intersection-of-Two-Linked-Lists) | 🟢 Easy |  | ⬜ |
+| 53 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of Two Linked Lists](./Day-053-Intersection-of-Two-Linked-Lists) | 🟢 Easy | Two Pointers | ✅ |
 | 54 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](./Day-054-Linked-List-Cycle-II) | 🟡 Medium |  | ⬜ |
 | 55 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](./Day-055-Remove-Nth-Node-From-End-of-List) | 🟡 Medium |  | ⬜ |
 | 56 | [2](https://leetcode.com/problems/add-two-numbers/) | [Add Two Numbers](./Day-056-Add-Two-Numbers) | 🟡 Medium |  | ⬜ |
