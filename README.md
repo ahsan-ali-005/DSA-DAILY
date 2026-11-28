@@ -24,14 +24,14 @@ The goal isn't to chase a number. The goal is to:
 
 ## 📊 Progress
 
-**Day 56 of 140 complete** | **56 / 140 solved**
+**Day 57 of 140 complete** | **57 / 140 solved**
 
 | Difficulty | Solved | Total   |
 | ---------- | ------ | ------- |
 | 🟢 Easy    | 26     | 51      |
-| 🟡 Medium  | 29      | 83      |
+| 🟡 Medium  | 30      | 83      |
 | 🔴 Hard    | 1      | 6       |
-| **All**    | **56**  | **140** |
+| **All**    | **57**  | **140** |
 
 ---
 
@@ -173,7 +173,7 @@ Day-001-Longest-Common-Prefix/
 | 54 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](./Day-054-Linked-List-Cycle-II) | 🟡 Medium | Fast & Slow Pointers | ✅ |
 | 55 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](./Day-055-Remove-Nth-Node-From-End-of-List) | 🟡 Medium | Two Pointers | ✅ |
 | 56 | [2](https://leetcode.com/problems/add-two-numbers/) | [Add Two Numbers](./Day-056-Add-Two-Numbers) | 🟡 Medium | Linked List Traversal + Carry Simulation | ✅ |
-| 57 | [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](./Day-057-Reorder-List) | 🟡 Medium |  | ⬜ |
+| 57 | [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](./Day-057-Reorder-List) | 🟡 Medium | Fast & Slow Pointers | ✅ |
 | 58 | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](./Day-058-LRU-Cache) | 🟡 Medium |  | ⬜ |
 | 59 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted Lists](./Day-059-Merge-k-Sorted-Lists) | 🔴 Hard |  | ⬜ |
 
